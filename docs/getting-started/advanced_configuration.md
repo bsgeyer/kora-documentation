@@ -12,6 +12,8 @@ This should have a more-robust introductory section.
 
 If your installation will exist at a URL with a subdirectory, it is important to adjust the ".htaccess" file inside of "public" to reflect this. **Note**: This is *only* applicable to a Kora installation accessible by subdirectory and *not* for one existing at a domain-level or subdomain-level URL. For an explanation of these circumstances, please see the ["Create Kora Installation URLs" part of the Reclaim/DoOO Installation guide](../installing_kora_domains/#create-kora-installation-urls).
 
+another edit
+
 1. If you have not yet done so, confirm that `mod_rewrite`. See "[Enabling *mod_rewrite*](../system_requirements/#enabling-mod_rewrite)" section of the "System Requirements" documentation.
 
 2. Edit the ".htaccess" file inside the "public" directory.
