@@ -20,7 +20,7 @@ If your installation will exist at a URL with a subdirectory, it is important to
 
     * If using SSH or Terminal, navigate to "kora/public" and use `sudo nano`, this time to edit ".htaccess". An explanation for using `nano` with super user privileges is also contained in the "[Enabling *mod_rewrite*](../system_requirements/#enabling-mod_rewrite)" section of the "System Requirements" documentation.
 
-    <span></span>
+    <span> </span>
 
     The file's code will begin with:
 
