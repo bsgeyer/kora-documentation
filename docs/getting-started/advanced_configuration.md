@@ -6,6 +6,8 @@ title: Advanced Configuration of Kora
 
 This document explains some advanced features of Kora, which may only need to be configured in certain circumstances.
 
+This should have a more-robust introductory section.
+
 ## Using *mod_rewrite* in Kora
 
 If your installation will exist at a URL with a subdirectory, it is important to adjust the ".htaccess" file inside of "public" to reflect this. **Note**: This is *only* applicable to a Kora installation accessible by subdirectory and *not* for one existing at a domain-level or subdomain-level URL. For an explanation of these circumstances, please see the ["Create Kora Installation URLs" part of the Reclaim/DoOO Installation guide](../installing_kora_domains/#create-kora-installation-urls).
